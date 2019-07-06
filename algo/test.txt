@@ -1,0 +1,29 @@
+anger contempt disgust fear happiness neutral sadness surprise roll
+anger=0.0	contempt=0.001	disgust=0.0	fear=0.0	happiness=0.001	neutral=0.998	sadness=0.0	surprise=0.001
+not bored
+anger=0.001	contempt=0.023	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.972	sadness=0.0	surprise=0.004
+not bored
+anger=0.001	contempt=0.014	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.969	sadness=0.001	surprise=0.015
+not bored
+anger=0.001	contempt=0.002	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.981	sadness=0.0	surprise=0.016
+not bored
+anger=0.0	contempt=0.001	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.974	sadness=0.0	surprise=0.024
+not bored
+anger=0.001	contempt=0.002	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.972	sadness=0.0	surprise=0.025
+not bored
+anger=0.0	contempt=0.015	disgust=0.0	fear=0.0	happiness=0.002	neutral=0.983	sadness=0.0	surprise=0.0
+not bored
+anger=0.0	contempt=0.001	disgust=0.0	fear=0.0	happiness=0.001	neutral=0.997	sadness=0.0	surprise=0.001
+not bored
+anger=0.0	contempt=0.001	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.999	sadness=0.0	surprise=0.0
+not bored
+anger=0.0	contempt=0.0	disgust=0.0	fear=0.0	happiness=0.0	neutral=1.0	sadness=0.0	surprise=0.0
+not bored
+anger=0.0	contempt=0.004	disgust=0.0	fear=0.0	happiness=0.001	neutral=0.995	sadness=0.0	surprise=0.0
+not bored
+anger=0.0	contempt=0.0	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.97	sadness=0.0	surprise=0.029
+anger=0.0	contempt=0.001	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.995	sadness=0.0	surprise=0.004
+not bored
+not bored
+anger=0.001	contempt=0.002	disgust=0.0	fear=0.0	happiness=0.0	neutral=0.994	sadness=0.0	surprise=0.003
+not bored
